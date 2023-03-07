@@ -1,0 +1,39 @@
+img{
+    height: 200px;
+    width: auto;
+    padding-top: 10px;
+    padding-left: 5px;
+    text-align: center;
+}
+h1{
+   text-align: center;
+   background-color: #00A3FF;
+   height: 100px;
+   border-radius: 0%;
+}
+.box{
+   height: 750px;
+   width: 1000px;
+   background-color:#879486 ;
+   margin: 0 auto;
+}
+
+body{
+   background-color: black;
+}
+.container{
+   text-align: center;
+}
+
+table{
+   background-color: #00A3FF;
+   height: 300px;
+   width: 1000px;
+   border-radius:0%;
+}
+.lingkaran {
+   width: 150px;
+   height: 180px;
+   border-radius: 20%;
+ }
+ 
